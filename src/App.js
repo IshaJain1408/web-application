@@ -1,12 +1,12 @@
 import Navbar from './components/Navbar/Navbar';
-import Home from './components/Home/Home';
-import Products from './components/Products/Products';
-import Classes from './components/Classes/Classes';
+import Home from './Pages/Home/Home';
+import Products from './Pages/Products/Products';
+import Classes from './Pages/Classes/Classes';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import About from './components/AboutUs/About';
-import AuthPage from './components/Auth/AuthPage';
-import Cart from './components/Cart/Cart';
-import Profile from './components/Profile/Profile';
+import About from './Pages/AboutUs/About';
+import AuthPage from './Pages/Auth/AuthPage';
+import Cart from './Pages/Cart/Cart';
+import Profile from './Pages/Profile/Profile';
 
 function App() {
   return (

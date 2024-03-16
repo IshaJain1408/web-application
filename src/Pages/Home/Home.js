@@ -5,8 +5,7 @@ import banner2 from '../../assets/images/banner2.jpg'
 import banner3 from '../../assets/images/banner3.jpg'
 import CardCarousel from './CardCarousel';
 import Reviews from './Reviews';
-import Footer from '../Footer/Footer';
-
+import Footer from '../../components/Footer/Footer'
 const Home = () => {
   return (
     <>

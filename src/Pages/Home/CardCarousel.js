@@ -1,6 +1,6 @@
 
 import React from 'react';
-import jsonData from '../Data/Data';
+import jsonData from '../../components/Data/Data';
 import './Home.css';
 
 function CardCarousel() {
